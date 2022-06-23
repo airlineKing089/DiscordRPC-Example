@@ -17,5 +17,5 @@ A simple example on using Discord Rich Presence in Python with the PyPresence Mo
 - Python
 
 ## Authors
-- Original Creator, their name
+- Original Creator, Bearski11
 - Me, AirlineKing089
