@@ -12,9 +12,9 @@ A simple example on using Discord Rich Presence in Python with the PyPresence Mo
 7. Enjoy your Rich Presence!
 
 ## Tools used
-- Visual Studio Code
-- PyPresence
-- Python
+- Visual Studio Code, [Link Here](https://code.visualstudio.com)
+- PyPresence, [Link Here](https://github.com/qwertyquerty/pypresence)
+- Python, [Link Here](https://www.python.org)
 
 ## Authors
 - Original Creator, Bearski11
