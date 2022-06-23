@@ -1,26 +1,21 @@
-[![pypresence](https://img.shields.io/badge/using-pypresence-00bb88.svg?style=for-the-badge&logo=discord&logoWidth=20)](https://github.com/qwertyquerty/pypresence)
-![Twitter Follow](https://img.shields.io/twitter/follow/Bearski%20Or%20Shadow?color=%231da1f2&label=Follow%20%40Bearski&?logo=Twitter&style=for-the-badge)
-![Discord](https://img.shields.io/discord/740280252072198184?color=7289DA&label=Discord&logo=Discord&style=for-the-badge)
+# DiscordRPC-Example
 
-## Getting Started
+A simple example on using Discord Rich Presence in Python with the PyPresence Module. The examples make use of a seperate class for the DiscordRPC stuff. Currently there is 1 example but there will be more examples in the future.
 
-Make sure you have Python installed and a text editor fill in all the things that are needed. Now your probably wondering about why its not working well your going to have to go [here](https://discord.com/developers/applications), now create an application and paste the client ID into the client ID area in the code.
+## Installation
+1. Create a discord app [[Guide Here](https://discord.com/developers/docs/intro)]
+2. run ``pip install pypresence`` in your terminal/shell.
+3. copy the example code to your python script.
+4. Add in your client_id where it says "YOUR CLIENT_ID HERE"
+5. Add in the other parts in the line labelled ``Edit your RPC Here``
+6. Run the python script
+7. Enjoy your Rich Presence!
 
-## Dependencies
-
-Install pypresence
-```
-pip install pypresence
-```
-
-## Built With
-
-* [Visual Studio Code](https://visualstudio.microsoft.com/)
-* [Pypresence](https://pypi.org/project/pypresence/)
-* [Python](https://www.python.org/)
+## Tools used
+- Visual Studio Code
+- PyPresence
+- Python
 
 ## Authors
-
-* **Bearski** - *Creator*
-
-See also the list of [contributors](https://github.com/Bearski11/VitalClient/contributors) who participated in this project.
+- Original Creator, their name
+- Me, AirlineKing089
